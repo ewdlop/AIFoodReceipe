@@ -5,10 +5,9 @@ The "Dunkin' Donut" analogy in the context of data structures within classical m
 ---
 
 ### 1. **Symplectic Manifold**  
-A symplectic manifold \((M, \omega)\) is a smooth, even-dimensional space \(M\) equipped with a closed, non-degenerate 2-form \(\omega\). It provides the foundational geometric structure for classical mechanics, where:
-
-- Points on \(M\) represent states in phase space.
-- The 2-form \(\omega\) encodes the relationship between position \(q_i\) and momentum \(p_i\).
+A **symplectic manifold** $$(M, \omega)$$ is a smooth, even-dimensional space $$(M)$$ equipped with a closed, non-degenerate 2-form $$(\omega)$$. It provides the foundational geometric structure for classical mechanics, where:
+- Points on $$(M)$$ represent states in phase space.
+- The 2-form $$\omega$$ encodes the relationship between position $$q_i$$ and momentum $$p_i$$.
 
 ---
 
@@ -23,8 +22,8 @@ A "Dunkin' Donut" could metaphorically represent:
 ### 3. **Data Structures and Mechanics**  
 In classical mechanics:
 
-- **Hamiltonian Systems:** Represented by a function \(H: M \to \mathbb{R}\), with evolution dictated by Hamilton's equations.
-- **Canonical Coordinates:** Position \(q_i\) and momentum \(p_i\) are analogous to key-value pairs in a dictionary-like structure.
+- **Hamiltonian Systems**: Represented by a function $$(H: M \to \mathbb{R})$$, with evolution dictated by Hamilton's equations.
+- **Canonical Coordinates**: Position $$(q_i)$$ and momentum $$(p_i)$$ are analogous to key-value pairs in a dictionary-like structure
 
 Using the donut metaphor:
 - **Inner Filling:** Could represent the conserved energy levels of the Hamiltonian system.
