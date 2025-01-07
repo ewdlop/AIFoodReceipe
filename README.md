@@ -1,5 +1,10 @@
 # FoodReceipe
 
+## YALL CALL ME FAT?
+
+[1992]<https://www.quora.com/What-was-the-first-file-system>
+
+
 The "Dunkin' Donut" analogy in the context of data structures within classical mechanics on a symplectic manifold can be a useful visualization of complex interactions. Let's explore how this might fit together:
 
 ---
